@@ -35,7 +35,7 @@ namespace ClientUI.Controllers
             connectionString = configuration.GetConnectionString("DefaultConnectionString");
             postitUrl = configuration.GetConnectionString("postitUrl");
             postitKey = configuration.GetConnectionString("postitKey");
-            clientFile = configuration.GetConnectionString("klientai");
+            clientFile = configuration.GetConnectionString("clientFile");
         }
 
         [HttpGet]
