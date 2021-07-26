@@ -103,6 +103,13 @@ namespace ClientUI.Controllers
             return View(client);
         }
 
+        public async Task<ActionResult> AddFromFile()
+        {
+            HttpClient httpClient = _api.Initial();
+            HttpResponseMessage response = await httpClient.GetAsync("api/Client/importuoti_klientus");
+
+            return RedirectToAction("Index");
+        }
         public async Task<ActionResult> PostCodeUpdate()
         {
             HttpClient httpClient = _api.Initial();
