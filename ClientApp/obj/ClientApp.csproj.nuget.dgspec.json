@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\studijos\\Programavimas\\ClientApp\\ClientApp.csproj": {}
+    "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\ClientApp.csproj": {}
   },
   "projects": {
-    "D:\\studijos\\Programavimas\\ClientApp\\ClientApp.csproj": {
+    "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\ClientApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\studijos\\Programavimas\\ClientApp\\ClientApp.csproj",
+        "projectUniqueName": "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\ClientApp.csproj",
         "projectName": "ClientApp",
-        "projectPath": "D:\\studijos\\Programavimas\\ClientApp\\ClientApp.csproj",
+        "projectPath": "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\ClientApp.csproj",
         "packagesPath": "C:\\Users\\TJWN\\.nuget\\packages\\",
-        "outputPath": "D:\\studijos\\Programavimas\\ClientApp\\obj\\",
+        "outputPath": "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TJWN\\AppData\\Roaming\\NuGet\\NuGet.Config",

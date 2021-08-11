@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using EntityFrameworkCore.Triggers;
 
-namespace ClientUI.Models
+namespace ClientApp.Models
 {
     public class ClientContext : DbContext
     {

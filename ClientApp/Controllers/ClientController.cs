@@ -1,5 +1,5 @@
-﻿using ClientUI.Models;
-using ClientUI.Repositories;
+﻿using ClientApp.Models;
+using ClientApp.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
@@ -13,7 +13,7 @@ using Newtonsoft.Json.Linq;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace ClientUI.Controllers
+namespace ClientApp.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

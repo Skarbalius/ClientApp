@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\studijos\\Programavimas\\ClientUI\\ClientUI.csproj": {}
+    "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientUI\\ClientUI.csproj": {}
   },
   "projects": {
-    "D:\\studijos\\Programavimas\\ClientApp\\ClientApp.csproj": {
+    "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\ClientApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\studijos\\Programavimas\\ClientApp\\ClientApp.csproj",
+        "projectUniqueName": "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\ClientApp.csproj",
         "projectName": "ClientApp",
-        "projectPath": "D:\\studijos\\Programavimas\\ClientApp\\ClientApp.csproj",
+        "projectPath": "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\ClientApp.csproj",
         "packagesPath": "C:\\Users\\TJWN\\.nuget\\packages\\",
-        "outputPath": "D:\\studijos\\Programavimas\\ClientApp\\obj\\",
+        "outputPath": "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TJWN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,14 +117,14 @@
         }
       }
     },
-    "D:\\studijos\\Programavimas\\ClientUI\\ClientUI.csproj": {
+    "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientUI\\ClientUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\studijos\\Programavimas\\ClientUI\\ClientUI.csproj",
+        "projectUniqueName": "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientUI\\ClientUI.csproj",
         "projectName": "ClientUI",
-        "projectPath": "D:\\studijos\\Programavimas\\ClientUI\\ClientUI.csproj",
+        "projectPath": "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientUI\\ClientUI.csproj",
         "packagesPath": "C:\\Users\\TJWN\\.nuget\\packages\\",
-        "outputPath": "D:\\studijos\\Programavimas\\ClientUI\\obj\\",
+        "outputPath": "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TJWN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -141,8 +141,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\studijos\\Programavimas\\ClientApp\\ClientApp.csproj": {
-                "projectPath": "D:\\studijos\\Programavimas\\ClientApp\\ClientApp.csproj"
+              "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\ClientApp.csproj": {
+                "projectPath": "D:\\studijos\\Programavimas\\C#\\ClientApp\\ClientApp\\ClientApp.csproj"
               }
             }
           }

@@ -1,5 +1,5 @@
-﻿using ClientUI.Helper;
-using ClientUI.Models;
+﻿using ClientApp.Helper;
+using ClientApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,12 +7,12 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using ClientUI.Controllers;
+using ClientApp.Controllers;
 using System.Net.Http;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace ClientUI.Controllers
+namespace ClientApp.Controllers
 {
     public class HomeController : Controller
     {

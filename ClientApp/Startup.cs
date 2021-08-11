@@ -1,5 +1,5 @@
-using ClientUI.Models;
-using ClientUI.Repositories;
+using ClientApp.Models;
+using ClientApp.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -14,7 +14,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-namespace ClientUI
+namespace ClientApp
 {
     public class Startup
     {

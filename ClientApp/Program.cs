@@ -8,7 +8,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Serilog;
 
-namespace ClientUI
+namespace ClientApp
 {
     public class Program
     {
